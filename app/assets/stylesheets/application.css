@@ -11,3 +11,23 @@
  *= require_self
  *= require_tree .
  */
+
+h1{
+	color : green;
+	font-family : Arial;
+	font-size : 2em;
+}
+
+h2 {
+   color: blue;
+   font-size: 2em;
+   font-family: Verdana;
+}
+
+
+p {
+
+  color: red;
+  font-size: 4em;
+  font-family: Verdana;
+}
